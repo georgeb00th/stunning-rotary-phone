@@ -1,0 +1,4 @@
+Invoice_type ,Invoice_num ,Curr_code ,Vendor_number ,Vendor_site ,Payment_term ,Line_number ,Description,Header_amount ,Line_amount ,Source ,Distribution_set_name
+STANDARD,12345,USD,2007,DANVILLE-CTR,Immediate,1,TEST Line Created by XXXXX,600,200,Import,PUB
+STANDARD,12345,USD,2007,DANVILLE-CTR,Immediate,2,TEST Line Created by XXXXX,600,200,Import,PUB
+STANDARD,12345,USD,2007,DANVILLE-CTR,Immediate,3,TEST Line Created by XXXXX,600,200,Import,PUB
